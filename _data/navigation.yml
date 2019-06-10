@@ -1,0 +1,66 @@
+# main:
+#   - title: "Posts"
+#     url: /posts/
+#   - title: "Categories"
+#     url: /categories/
+#   - title: "Tags"
+#     url: /tags/
+#   - title: "About"
+#     url: /about/
+
+docs:
+  - title: "General"
+    children:
+      - title: "FAQ about FIT"
+        url: /about/
+
+  - title: "Developer Resources"
+    children:
+      # - title: "Onboarding Procedures"
+      #   url: /docs/onboarding/
+      - title: "Onboarding Procedures"
+        url: /onboarding/Overview
+      - title: "Version Control"
+        url: /onboarding/Version-Control
+      - title: "Coding Best Practices"
+        url: /onboarding/Best-Practices
+      - title: "Badging"
+        url: /onboarding/Badging-Overview
+
+  - title: "User Resources"
+    children:
+      - title: "Available Tools"
+      #   url: /docs/onboarding/
+      - title: "Using Github for downloading"
+      #   url: /docs/onboarding/
+      - title: "Overview of tool verification"
+       #   url: /docs/onboarding/
+      - title: "Trainings"
+      #   url: /docs/onboarding/
+
+  - title: "Contacts"
+    children:
+      - title:  "Fisheries Integrated Toolbox"
+        url:
+  - title: "Search"
+    children:
+      - title: "tags"
+        url: /tags/
+      - title: "general search"
+        url:
+
+
+# main:
+#   - title: "Posts"
+#     url: /posts/
+#   - title: "Categories"
+#     url: /categories/
+#   - title: "Tags"
+#     url: /tags/
+#   - title: "About"
+#     url: /about/
+
+
+
+
+
