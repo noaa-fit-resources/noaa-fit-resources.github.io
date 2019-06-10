@@ -19,13 +19,13 @@ docs:
       # - title: "Onboarding Procedures"
       #   url: /docs/onboarding/
       - title: "Onboarding Procedures"
-        url: /onboarding/Overview
+        url: /onboarding/Ooerview
       - title: "Version Control"
-        url: /onboarding/Version-Control
+        url: /onboarding/version-control
       - title: "Coding Best Practices"
-        url: /onboarding/Best-Practices
+        url: /onboarding/best-practices
       - title: "Badging"
-        url: /onboarding/Badging-Overview
+        url: /onboarding/badging-overview
 
   - title: "User Resources"
     children:
