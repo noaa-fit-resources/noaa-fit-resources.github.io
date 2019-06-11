@@ -19,7 +19,7 @@ docs:
       # - title: "Onboarding Procedures"
       #   url: /docs/onboarding/
       - title: "Onboarding Procedures"
-        url: /onboarding/Ooerview
+        url: /onboarding/overview
       - title: "Version Control"
         url: /onboarding/version-control
       - title: "Coding Best Practices"
