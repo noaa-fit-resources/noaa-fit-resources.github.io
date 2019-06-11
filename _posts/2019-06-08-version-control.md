@@ -89,10 +89,10 @@ For more informatin on setting up configuration files on your computer for multi
 - [Multiple Emails per Git Repo](https://orrsella.com/2013/08/10/git-using-different-user-emails-for-different-repositories/)
 
 
-### SSH and security measures
+## SSH and security measures
 
 
-### Basic workflows
+## Basic workflows
 More infomration on workflows will be found in other resources on this site.
 Starting from scratch:
 - Make a directory folder on your computer where you will work
