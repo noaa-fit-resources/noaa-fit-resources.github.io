@@ -2,6 +2,7 @@
 title: "Version-Control"
 excerpt: "Overview of version control"
 date: 2019-06-02
+toc: true
 categories:
   - onboarding
 tags:
@@ -10,7 +11,6 @@ tags:
   - github
 ---
 
-# Version Control Tutorial
 There are many resrouces availabel on version control.  Here is a simple overview as it relates to the NOAA Fisheries Integrated Toolbox.
 
 ## What is version control?
@@ -84,9 +84,9 @@ gi config user.email
 - better: set up a .gitconfig to deal with multiple identities
 
 For more informatin on setting up configuration files on your computer for multiple accounts:
-- https://www.motowilliams.com/conditional-includes-for-git-config
-- https://medium.com/@pinglinh/how-to-have-2-github-accounts-on-one-machine-windows-69b5b4c5b14e
-- https://orrsella.com/2013/08/10/git-using-different-user-emails-for-different-repositories/
+- [Git Config Files using a folder structure](https://www.motowilliams.com/conditional-includes-for-git-config)
+- [Windows MAchine Multiple Git ID's](https://medium.com/@pinglinh/how-to-have-2-github-accounts-on-one-machine-windows-69b5b4c5b14e)
+- [Multiple Emails per Git Repo](https://orrsella.com/2013/08/10/git-using-different-user-emails-for-different-repositories/)
 
 
 ### SSH and security measures
