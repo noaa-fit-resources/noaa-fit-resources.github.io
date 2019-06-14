@@ -1,5 +1,5 @@
 ---
-title: "Version-Control-Best-Practices"
+title: "Version Control Best Practices"
 excerpt: "Overview of Version Control Best Practices"
 date: 2019-06-14
 toc: true
