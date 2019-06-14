@@ -37,7 +37,7 @@ General installation [directions](https://git-scm.com/book/en/v2/Getting-Started
 You will need administrative privlages to install.  Git can be used at the command line or with graphical user interfaces depending on your preferences. Herein we folcus on command line information.
 
 Once installed, youll need to configure git with your identity information.
-The user name and user email you use for git will be needed later for setting up your Github account.  It is likely you may need to set up a system to track you r identity for both work and personal use.  See information below on using multiple accounts if this is the case.
+The user name and user email you use for git will be needed later for setting up your GitHub account.  It is likely you may need to set up a system to track you r identity for both work and personal use.  See information below on using multiple accounts if this is the case.
 
 Although you could just use Git locally for version control, it is best to use with a server system.  Locally, Git alone will allow you to track and revert changes.  By using it inconjunciton with a server, you'll have backups of your code and be able to easily collaborate.
 
@@ -45,14 +45,14 @@ Although you could just use Git locally for version control, it is best to use w
 
 ## GIT Server as a Service
 There are many open-source and private systems that offer Git Server as a Service that each have additional tools and benefits.  The main one being the ability to push code to a server for backup and easy collaboration.  Some of the well know systems are:
-- [Github](https://github.com/)
+- [GitHub](https://github.com/)
 - [Gitlab](https://about.gitlab.com/)
 - [Bitbucket](https://bitbucket.org/)
 
-We will focus on use of Github herein.
+We will focus on use of GitHub herein.
 
 
-### Creating a Github account
+### Creating a GitHub account
 - General information on [creating a github account](https://help.github.com/en/articles/signing-up-for-a-new-github-account);
  - For NOAA specific users there are specific requirements ( some listed in the NOAA checklist) which include but are not limited to:
 
@@ -61,7 +61,7 @@ We will focus on use of Github herein.
 - b.  They must have a photo of themselves associated to the account
 - c. They must use 2 factor authentication
 - d. They can only have NOAA related work under their account
-- Note: it is good practice that your Github user name for NOAA is FirstLast-NOAA which clearly identifies it as a NOAA linked account versus a personal account}
+- Note: it is good practice that your GitHub user name for NOAA is FirstLast-NOAA which clearly identifies it as a NOAA linked account versus a personal account}
 2. Repository specific:
 - a. only allowing write access to NOAA users
 - b. all non-NOAA users can only have push access
@@ -70,7 +70,7 @@ We will focus on use of Github herein.
 - e. must have a "gold standard" backup of the repo
 
 
-Please note that if you have multiple Github identities ( perhaps a personal one and a work one).  Youll want to be careful about which identity you use.  See Multiple Identities below to set up automated ways of dealing with this.
+Please note that if you have multiple GitHub identities ( perhaps a personal one and a work one).  Youll want to be careful about which identity you use.  See Multiple Identities below to set up automated ways of dealing with this.
 
 
 ### Multiple Identities
@@ -141,5 +141,5 @@ quick reference [guide](https://git-scm.com/docs)
 
 
 
-### Free online Github tutorials
+### Free online GitHub tutorials
 [more info from Atlassian](https://www.atlassian.com/git/tutorials)
