@@ -1,4 +1,4 @@
- ---
+---
 title: "Version-Control"
 excerpt: "Overview of version control"
 date: 2019-06-02
@@ -6,7 +6,7 @@ toc: true
 categories:
   - onboarding
 tags:
-  - version control
+  - version-control
   - git
   - github
 ---
