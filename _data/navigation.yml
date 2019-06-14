@@ -22,8 +22,8 @@ docs:
         url: /onboarding/overview
       - title: "Version Control"
         url: /onboarding/version-control
-      - title: "Coding Best Practices"
-        url: /onboarding/best-practices
+      - title: "Version Control Best Practices"
+        url: /best-practices/version-control-best-practices
       - title: "Badging"
         url: /onboarding/badging-overview
 

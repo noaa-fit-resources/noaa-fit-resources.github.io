@@ -17,7 +17,7 @@ General principles of change management
 
 Some principles of software management and review are true across all
 workflows. These are presented first; for more details on possible
-workflows in Github, see "Github workflow" section below.
+workflows in GitHub, see "GitHub workflow" section below.
 
 1.  The `master` branch is always stable. To ensure stability, a
     combination of automated testing and manual review needs to be
@@ -50,10 +50,10 @@ workflows in Github, see "Github workflow" section below.
     and test in one go. Similarly, changes that are intended to be
     merged in should be on a weekly basis.
 
-Github workflow options
+GitHub workflow options
 -----------------------
 
-My main critique of Github is its tendency to provide too many parallel
+My main critique of GitHub is its tendency to provide too many parallel
 options that achieve the same end goal. One of these is illustrated with
 choosing between git forking and branching workflows. Both are
 legitimate workflows but it is unclear what the pros and cons of each
@@ -76,7 +76,7 @@ are. My pros and cons are presented below:
 1.  Allows for multi-branch workflow, i.e. a `master`, `development`,
     and feature branches. Feature branches are one way to keep changes
     more modular and improve testability.
-2.  Seamless to manage Github releases.
+2.  Seamless to manage GitHub releases.
 3.  Branch protection rules to enforce more protocols on everyone,
     including administrators.
 
@@ -97,7 +97,7 @@ master branch. If you expect changes to diverge and not rejoin master,
 or you have one repository with non-NOAA collaborators, the forking
 workflow may suit your needs better.
 
-Software versioning and Github Releases
+Software versioning and GitHub Releases
 ---------------------------------------
 
 The standard for software versioning is [semantic
@@ -111,13 +111,13 @@ legacy software binaries for users who are unable to migrate to later
 software versions. Patches may be applied to legacy versions to port bug
 fixes when necessary.
 
-A good way to manage this is using Github releases. Github
+A good way to manage this is using GitHub releases. GitHub
 [releases](https://help.github.com/en/categories/releases) are designed
 to keep a consistent log of the most recent software version. You can
 create a release by pushing a commit with a tag that corresponds to a
 semantic version (for example, tag 1.0.0 to release version 1.0), or by
-selecting "Draft a new release" in your Github repository. Drafting
+selecting "Draft a new release" in your GitHub repository. Drafting
 releases comes with the benefit of marking something a draft or
-preliminary release. In a Github release, compiled binaries up to 2.0 MB
+preliminary release. In a GitHub release, compiled binaries up to 2.0 MB
 are provided for download and others watching your repository will be
 notified when a new release is pushed.
