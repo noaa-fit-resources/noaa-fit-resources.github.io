@@ -4,7 +4,7 @@ excerpt: "Overview of Documentation"
 date: 2019-06-23
 toc: true
 categories:
-  - onboarding
+  - best-practices
 tags:
   - documentation
 ---
