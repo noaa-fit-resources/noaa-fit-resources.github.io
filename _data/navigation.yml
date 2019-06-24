@@ -24,7 +24,7 @@ docs:
         url: /onboarding/version-control
       - title: "Version Control Best Practices"
         url: /best-practices/best-practices-version-control
-        - title: "Code Documentation"
+      - title: "Code Documentation"
         url: /best-practices/code-documentation
       - title: "Badging"
         url: /onboarding/badging-overview
